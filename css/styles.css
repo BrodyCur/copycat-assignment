@@ -9,7 +9,8 @@ html {
 }
 
 main {
-    margin: auto 15%;
+    max-width: 900px;
+    margin: auto;
 }
 
 /* header */
